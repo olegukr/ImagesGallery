@@ -7,6 +7,6 @@
 Methods are used: 
 
 - HTML
-- CSS Grid
+- CSS Grid 
 
 
